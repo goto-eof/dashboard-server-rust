@@ -4,3 +4,4 @@ logs/
 .vscode
 .env
 .env.prod
+production.json
