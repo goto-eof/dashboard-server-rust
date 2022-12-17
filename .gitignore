@@ -1,0 +1,6 @@
+/target
+src/migration/target/
+logs/
+.vscode
+.env
+.env.prod

@@ -1,0 +1,41 @@
+{
+  "db_username": "postgres",
+  "db_password": "postgres",
+  "db_uri": "localhost",
+  "db_port": "5432",
+  "db_name": "dashboard",
+  "server_port": 8080,
+  "cors_allowed_origins": ["http://localhost:3000"],
+  "cors_allowed_headers": [
+    "Access-Control-Allow-Credentials",
+    "Access-Control-Allow-Headers",
+    "Access-Control-Request-Method",
+    "Access-Control-Request-Headers",
+    "Origin",
+    "Accept",
+    "Content-Type",
+    "Accept-Encoding",
+    "Accept-Language",
+    "Cache-Control",
+    "Connection",
+    "Host",
+    "Pragma",
+    "Referer",
+    "User-Agent",
+    "X-Requested-With",
+    "Content-Type",
+    "Cookie",
+    "Upgrade-Insecure-Requests",
+    "Upgrade",
+    "Authorization"
+  ],
+  "cors_allowed_methods": [
+    "GET",
+    "POST",
+    "PUT",
+    "DELETE",
+    "OPTIONS",
+    "HEAD",
+    "PATCH"
+  ]
+}

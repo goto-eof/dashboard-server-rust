@@ -1,0 +1,12 @@
+version: '3.6'
+
+services:
+  dashboard-server:
+    container_name: dashboard-server
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: always
+    # ports:
+    #   - '8080:8080'
+    network_mode: 'host'

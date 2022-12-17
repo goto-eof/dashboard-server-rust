@@ -1,0 +1,5 @@
+target/
+.vscode/
+README.md
+.gitignore
+migration/target/
