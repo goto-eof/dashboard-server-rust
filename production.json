@@ -1,7 +1,0 @@
-{
-  "db_username": "postgres",
-  "db_password": "postgres",
-  "db_uri": "dodu.it",
-  "db_port": "5432",
-  "db_name": "postgres"
-}
